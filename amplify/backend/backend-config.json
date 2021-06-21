@@ -1,1 +1,16 @@
-{}
+{
+  "function": {
+    "bankapp150a5194": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "type": "cicd",
+      "lastPushTimeStamp": "2021-06-21T21:43:14.220Z"
+    }
+  }
+}

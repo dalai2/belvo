@@ -10,6 +10,20 @@
       "StackName": "amplify-bankapp-dev-163924",
       "StackId": "arn:aws:cloudformation:us-east-1:773764890800:stack/amplify-bankapp-dev-163924/a877b940-d07d-11eb-a2eb-0ef585e93a5f",
       "AmplifyAppId": "d2m1p8wdw4zt34"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2m1p8wdw4zt34",
+          "type": "cicd"
+        }
+      },
+      "function": {
+        "bankapp150a5194": {
+          "deploymentBucketName": "amplify-bankapp-dev-163924-deployment",
+          "s3Key": "amplify-builds/bankapp150a5194-4745684b654656534a76-build.zip"
+        }
+      }
     }
   }
 }
